@@ -1,4 +1,4 @@
-package java;
+package javaExo;
 
 import java.util.ArrayList;
 
