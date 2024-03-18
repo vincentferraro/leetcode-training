@@ -14,6 +14,7 @@ class ArrayTest {
         for(int a : arr){
             System.out.println(a);
         }
+        
     }
 }
 
